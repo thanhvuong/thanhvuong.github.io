@@ -1,0 +1,8 @@
+{
+  "title": "Maintenance Alert for e-SHE",
+  "message": "Please be advised that e-SHE will undergo system maintenance from {startDate} to {endDate}. During this time, users may experience issues with log in and system performance.",
+  "additionalInfo": "Please prepare in advance. Make sure to set deadlines and finish important tasks before the maintenance time.",
+  "startDate": "2024-06-15T02:00:00Z",
+  "endDate": "2024-06-15T06:00:00Z",
+  "isActive": true
+}
